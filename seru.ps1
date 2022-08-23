@@ -1,2 +1,1 @@
-echo empty >a.bat;
-md ser;
+md ser; echo empty >a.bat;
