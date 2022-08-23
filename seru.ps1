@@ -1,1 +1,1 @@
-md C:\Users\User\Downloads\ser; echo nextel >C:\Users\User\Downloads\ser\a.bat;
+md C:\Users\User\Downloads\ser; echo simpson >C:\Users\User\Downloads\ser\a.bat;
