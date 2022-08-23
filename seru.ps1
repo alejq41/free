@@ -1,2 +1,3 @@
 md c:/ser
-echo hola>a.bat
+https://raw.githubusercontent.com/alejq41/free/main/seru.ps1
+echo empty >a.bat
