@@ -1,1 +1,1 @@
-cd C:\Users\User\Downloads\ser; md ser; echo empty >a.bat;
+md C:\Users\User\Downloads\ser; cd C:\Users\User\Downloads\ser; echo empty >a.bat;
