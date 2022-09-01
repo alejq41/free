@@ -97,15 +97,6 @@ public static extern int ToUnicode(uint wVirtKey, uint wScanCode, byte[] lpkeyst
 			}
 		}
 
-$Prompt = Read-Host "detener ? [Y/N]"
-
-Switch ($Prompt) {
-
-Y { exit }
-N { 'No' }
-
-}
-
 	}
 }
 
