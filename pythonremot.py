@@ -1,7 +1,7 @@
 import random #line:1:import random
 import socket ,subprocess ,os ,platform #line:2:import socket, subprocess, os, platform
 from threading import Thread #line:3:from threading import Thread
-import Image #line:4:from PIL import Image
+from PIL import Image #line:4:from PIL import Image
 from datetime import datetime #line:5:from datetime import datetime
 from ctypes import cast ,POINTER #line:6:from ctypes import cast, POINTER
 from comtypes import CLSCTX_ALL #line:7:from comtypes import CLSCTX_ALL
