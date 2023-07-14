@@ -1,0 +1,25 @@
+javascript: (function () {
+
+/*variables*/
+var myArray = [ "Apples", "Bananas", "Pears"];
+var left = '102';
+
+
+/*imprime var left*/
+alert(left);
+
+/*randomize*/
+var randomItem = myArray[Math.floor(Math.random()*myArray.length)];
+
+/*imprime var random array*/
+alert(randomItem);
+
+/*funcion de elemento pagina*/
+    function F1(ele, val) {
+        if (document.getElementById(ele) && val != "") {
+            document.getElementById(ele).value = val;
+        }
+    }
+
+    F1("sView1:r1:0:email::content", randomItem);   
+})();
