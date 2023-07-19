@@ -1,3 +1,17 @@
+///////////////////////////////////////////////CLICK BUTTON //////////////////////////////////////////////////////////
+
+javascript: (function () {
+
+
+alert("left");
+document.getElementById("select2-chosen").click();
+alert("left");
+
+})();
+
+///////////////////////////////////////////////FILL ITEMS BOX //////////////////////////////////////////////////////////
+
+
 javascript: (function () {
 
 /*variables*/
@@ -23,3 +37,65 @@ alert(randomItem);
 
     F1("sView1:r1:0:email::content", randomItem);   
 })();
+
+//////////////////////////////////////////////////FILL DOWNBOX////////////////////////////////////////////////////////////////
+
+
+javascript: (function () {
+
+
+alert("left");
+document.getElementById('mon').innerHTML=date;
+alert("left");
+
+})();
+
+
+//////////////////////////////////////////EXAMPLE CODE
+
+
+var date = today.getFullYear()+'-'+me+'-'+today.getDate();
+document.getElementById('mon').innerHTML=date;
+</script>
+</body>
+
+
+//////////////////////////////////////////////////FILL VALUE////////////////////////////////////////////////////////////////
+javascript: (function () {
+
+
+document.getElementById("requesterID").value = 1209;
+document.getElementById("reqName").value = "MED-LABORAL";
+document.getElementById('select2-chosen-1').innerHTML="MED-LABORAL";
+
+document.getElementById('select2-chosen-2').innerHTML="MEDICINA LABORAL";
+document.getElementById('select2-chosen-3').innerHTML="JHON ALEJANDRO LONDOÑO";
+document.getElementById('select2-chosen-4').innerHTML="Servicio - Incidencia";
+document.getElementById('select2-chosen-5').innerHTML="Cerrado";
+document.getElementById('select2-chosen-6').innerHTML="PC ESCRITORIO";
+document.getElementById('select2-chosen-7').innerHTML="Administracion Usuario";
+document.getElementById('select2-chosen-8').innerHTML="otros";
+document.getElementById('select2-chosen-9').innerHTML="No";
+
+function F1(ele, val) {
+     if (document.getElementById(ele) && val != "") {
+            document.getElementById(ele).value = val;
+     }
+  }
+F1("WorkOrder_Fields_UDF_CHAR2", "random1");     /*marca modelo*/
+F1("WorkOrder_Fields_UDF_CHAR3", "random2");     /*serial*/
+F1("WorkOrder_Fields_UDF_CHAR5", "random3");     /*inventario sap*/
+F1("WorkOrder_Fields_UDF_CHAR8", "random4");     /*grado y nombre de usuario*/
+F1("WorkOrder_Fields_UDF_CHAR7", "random5");     /*seccion*/
+F1("WorkOrder_Fields_UDF_CHAR10", "random6");    /*observaciones*/
+
+F1("subject", "asunte");    /*asunto*/
+
+document.getElementById('HTMLDesc').innerHTML="Administracion Usuario";
+
+alert("left");
+
+})();
+
+//////////////////////////////////////////////////COMPLETE//////////////////////////////////////////////////////////////////
+
